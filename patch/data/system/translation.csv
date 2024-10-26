@@ -1,0 +1,39 @@
+
+クイックジャンプしますか？,Deseja saltar?
+No. %03d を上書きしますか？,Sobrescrever No. %d?
+セーブしました。,Dados salvos.
+クイックセーブファイルが存在しません。,Save inexistente.
+クイックロードしますか？,Save rapido?
+ロードに失敗しました。セーブデータが存在しません。,Carregamento falhou. Save inexistente.
+クイックセーブデータを初期化します。よろしいでしょうか？,Resetar save rapido?
+オートセーブデータを初期化します。よろしいでしょうか？,Resetar autosave?
+次の選択肢へ進みます。よろしいでしょうか？,Ir para a escolha seguinte?
+前の選択肢へ戻ります。よろしいでしょうか？,Voltar para a escolha anterior?
+次のシーンへ進みます。よろしいでしょうか？,Ir para a cena seguinte?
+タイトルに戻ります。よろしいですか？,Voltar para tela inicial
+シーン鑑賞を中断します。よろしいですか？,Fechar galeria?
+終了します。よろしいですか？,Fechar o jogo?
+ファイル(&F),Arquivo(&F)
+クイックセーブ F9,Save rapido	F9
+クイックロード F10,Carregamento rapido	F10
+クイックセーブデータ(&Q),Save rapido(&Q)
+オートセーブデータ(&A),Autosave(&A)
+前の選択肢へ(&B) F6,Escolha anterior(&B)	F6
+次の選択肢へ(&N) F7,Escolha seguinte(&N)	F7
+タイトルに戻る(&T) T,Voltar para tela inicial(&T)	T
+最小化(&M) F1,Minimizar(&M)	F1
+画面切り替え(&W) Alt+Enter,Trocar modo de tela(&W)	Alt+Enter
+終了(&X) Alt+F4,Fim(&X)	Alt+F4
+設定(&C),Config(&C)
+オートセーブ,Save rapido
+オートモード,Modo automatico
+スキップ,Pular
+クイックセーブデータの初期化,Resetar save rapido
+オートセーブデータの初期化,Resetar autosave
+ヘルプ(&H),Ajuda(&H)
+バージョン情報(&V)...,Ver. Info(&V)...
+ショートカットキー一覧(&K)... F12,Lista de atalhos(&K)...	F12
+バージョン情報,Ver. Info
+コメントを入力して下さい。,Adicione um comentario.
+入力は%d文字までです。,O caractere %d nao e aceito.
+無料でのプレイはここまでとなります。以降のストーリーをプレイしたい方はDLCをご購入下さい。,Este e o fim da demonstracao. Por favor, compre Ato I e Ato II para aproveitar o restante de Dies irae.

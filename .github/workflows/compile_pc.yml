@@ -1,0 +1,44 @@
+name: Compile and release (PC)
+
+# Tradução: quando houver uma atualização (push) ou pedido de atualização (pull request) nos arquivos hane_pc.txt, este script poderá ser rodado, mas APENAS se houver a adição de uma tag
+on:
+  push:
+    tags:
+    - '*'
+  pull_request:
+    tags:
+    - '*'
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+        architecture: 'x64'
+    - run: pip install tqdm
+
+    - name: Compile patch (PC)
+      run: python dependencies\compile_pc.py
+
+    #- name: Release
+    #  uses: softprops/action-gh-release@v1
+    #  if: startsWith(github.ref, 'refs/tags/')
+    #  with:
+    #    files: [KT]Umineko.Dolly.PT-BR.7z   # nome do arquivo final que irá para os releases
+    #  env:
+    #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: 'Get Previous tag'
+      id: previoustag
+      uses: "WyriHaximus/github-action-get-previous-tag@v1"
+      
+    - name: Release
+      run: gh release upload ${{ steps.previoustag.outputs.tag }} "[KT]Dies.Irae.~Fantasie.Traum.von.Hexe~.PT-BR.7z"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -23,17 +23,8 @@ Este patch:
 Para informações detalhadas sobre este projeto e como traduzir jogos que utilizem a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/README.md).**
 
 # Progresso
-- Introdução - 1/1 legenda
-- Prólogo - 1/1 capítulo
-- Rota comum - 6/6 capítulos
-- Rota da Kasumi - 7/7 capítulos
-- Rota da Kei - 6/7 capítulos
-- Rota da Marie - 7/7 capítulos
-- Rota da Rea - 7/7 capítulos
-- Other Story - 5/5  capítulos
-- Total - 39/40 capítulos
 
-Ao todo são 59812 linhas de texto em si, sendo 53851 linhas únicas (5.7MB)
+Em edição.
 
 # Instalação Final - futuramente
 

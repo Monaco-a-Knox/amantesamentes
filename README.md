@@ -9,7 +9,7 @@ Este patch:
 - Restaura **cursor original** (Lança Longinus)
 - Restaura **música de menu** (Letzte Bataillon)
 - Restaura **cor de texto lido** (Ouro)
-- Restaura **títulos original** (Capítulos **III** e **VI**)
+- Restaura **títulos originais** (Capítulos **III** e **VI**)
 - Restaura **CGs originais** (Artes sem censura em 16:9 e/ou sem cortes em 4:3) 
 - Restaura **arquivos de voz faltantes ou censurados** (17 arquivos, sendo 5 anexados em linhas anteriores)
 - Restaura **linhas sem censura** (Leves edições para adequar o texto)

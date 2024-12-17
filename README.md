@@ -2,7 +2,7 @@
 
 Patch em português da visual novel Dies Irae ~ Amantes Amentes ~. 
 Compatível com as versões Steam/DX package/Animation Anniversary. 
-Embora a versão japonesa permita jogar em resolução 16:9 e 4:3, algumas linhas podem não ter áudio.
+Embora a versão japonesa permita jogar em resolução 16:9 e 4:3, algumas linhas podem não ter áudio devido a censura de console, bem como algumas cgs também estão censuradas.
 
 Este patch:
 

@@ -122,7 +122,7 @@ Embora seja possível adicionar "novas linhas" dentro de uma linha já existente
 # Notas de tradução
 
 - Em Dies Irae, a expressão que Machina cita: "Pote de veneno|毒壷|蠱毒", refere-se ao [Gu](https://en.wikipedia.org/wiki/Gu_(poison)?oldid=477859027)". Onde ele próprio denomina-se como o "verme(蠱)" mais forte e sobrevivente. O "Gu" é um veneno criado a partir de diferentes vermes e insetos selados em um pote, no intuito que eles devorem uns aos outros e concentrem todas as suas toxinas no último sobrevivente. O "Gu" era utilizado na magia negra para criar **doenças malignas** e **causar a morte**. Em chinês, o kanji 蠱 originalmente referia-se a serpentes. No inglês, por motivos que até hoje não entendo, eles tende a se referir como "Gauntlet of Malice".
-- Pucchin é uma onomatopeia datada que indica exprime irritação, e "purin" significa "pudim". Junte ambos e você tem uma marca de pudim chamada PucchinPudim (プッチンプリン). Em sua concepção, a onomatopeia utilizada pela empresa representava o som do "pudim caindo no prato".
+- Pucchin é uma onomatopeia datada que exprime irritação, e "purin" significa "pudim". Junte ambos e você tem uma marca de pudim chamada PucchinPudim (プッチンプリン). Em sua concepção, a onomatopeia utilizada pela empresa representava o som do "pudim caindo no prato".
 - Georgius (ゲオルギウス), do Latim, refere-se a São Jorge.
 
 # Observações

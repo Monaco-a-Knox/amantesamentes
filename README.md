@@ -1,8 +1,7 @@
 # 時よ止まれ 君は誰よりも美しいから
 
 Patch em português da visual novel Dies Irae ~ Amantes Amentes ~. 
-Compatível com as versões Steam/DX package/Animation Anniversary. 
-Embora a versão japonesa permita jogar em resolução 16:9 e 4:3, algumas linhas podem não ter áudio devido a censura de console, bem como algumas cgs também estão censuradas.
+Compatível com as versões Steam/DX package/Animation Anniversary (não recomendada)
 
 Este patch:
 
@@ -21,10 +20,6 @@ Este patch:
 - Erradica **adaptações idiotas** (Presentes no inglês)
 
 Para informações detalhadas sobre este projeto e como traduzir jogos que utilizem a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/outros/README.md)**.
-
-# Progresso
-
-Em edição.
 
 # Instalação Final - futuramente
 

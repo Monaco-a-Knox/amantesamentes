@@ -1,7 +1,7 @@
 # 時よ止まれ 君は誰よりも美しいから
 
 Patch em português da visual novel Dies Irae ~ Amantes Amentes ~. 
-Compatível com as versões DX package/Animation Anniversary (não recomendada). Não vai funcionar na Steam.
+Compatível com as versões Steam/DX package/Animation Anniversary (não recomendada).
 
 Este patch:
 

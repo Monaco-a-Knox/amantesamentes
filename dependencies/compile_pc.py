@@ -13,6 +13,7 @@ def stringtool():
         print("exec.dat not found?")
 
     shutil.move("dependencies/exec_New.dat", "patch/data/system/exec.dat")
+    shutil.copyfile("patch/data/system/exec.dat", "patch/data/system/patch.dat")
 
 def compile():
     # Define onde o arquivo tex para descompressão está, extrai e move para a pasta patch

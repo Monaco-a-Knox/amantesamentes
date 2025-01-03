@@ -21,9 +21,9 @@ Este patch:
 
 Para informações detalhadas sobre este projeto e como traduzir jogos que utilizem a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/outros/README.md)**.
 
-# Instalação Final - futuramente
+# Instalação Final
 
-- Baixe o patch disponível no Github.
+- Baixe o [patch](https://github.com/Monaco-a-Knox/amantesamentes/releases) disponível no Github.
 - Extraia o conteúdo e coloque os três arquivos e a pasta ```data```na pasta raiz do jogo. O arquivo ```data5.dat``` contém tudo relacionado à tradução, enquanto o ```data6.dat``` contém artes sem censura e pode ser ignorado caso você seja fresco.
 
 # Créditos

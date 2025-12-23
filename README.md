@@ -9,7 +9,7 @@ Este patch:
 - Restaura **música de menu** (Letzte Bataillon)
 - Restaura **cor de texto lido** (Ouro)
 - Restaura **títulos originais** (Capítulos **III** e **VI**)
-- Restaura **CGs originais** (Artes **sem censura** em 16:9 e/ou **sem cortes** em 4:3) 
+- Restaura **CGs originais** (Artes **sem censura** em 16:9) 
 - Restaura **arquivos de voz faltantes ou sem censurados** (**17** arquivos, sendo **5** anexados em linhas anteriores)
 - Restaura **linhas sem censura** (Leves edições para adequar o texto)
 - Restaura **nomes oficiais** (Em conformidade ao artbook "**Ω Ewigkeit**")
@@ -32,7 +32,7 @@ Para informações detalhadas sobre este projeto e como traduzir jogos que utili
 [Monaco A. Knox](https://github.com/Monaco-a-Knox)
 
 **Colaboradores diretos e indiretos:**
-- [Crsky](https://github.com/crskycode/Malie_Script_Tool) (Malie ScriptTool)
+- [Crsky](https://github.com/nanami5270/Malie_Script_Tool) (Malie ScriptTool)
 - [marcussacana](https://github.com/marcussacana/SacanaWrapper) (Sacana Wrapper)
 - [satan53x](https://github.com/satan53x/SExtractor) (Malie's packer)
 - [Ítalo](https://github.com/ItaloKnox) (Compilação automatizada)

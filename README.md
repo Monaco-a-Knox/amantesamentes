@@ -32,7 +32,7 @@ Para informações detalhadas sobre este projeto e como traduzir jogos que utili
 [Monaco A. Knox](https://github.com/Monaco-a-Knox)
 
 **Colaboradores diretos e indiretos:**
-- [Crsky](https://github.com/nanami5270/Malie_Script_Tool) (Malie ScriptTool)
+- [Crsky](https://github.com/crskycode/Malie_Script_Tool) (Malie ScriptTool) | [Backup](https://github.com/nanami5270/Malie_Script_Tool)
 - [marcussacana](https://github.com/marcussacana/SacanaWrapper) (Sacana Wrapper)
 - [satan53x](https://github.com/satan53x/SExtractor) (Malie's packer)
 - [Ítalo](https://github.com/ItaloKnox) (Compilação automatizada)

@@ -39,6 +39,6 @@ jobs:
       uses: "WyriHaximus/github-action-get-previous-tag@v1"
       
     - name: Release
-      run: gh release upload ${{ steps.previoustag.outputs.tag }} '[KT]Dies.Irae.~Fantasie.Traum.von.Hexe~.PT-BR.7z'
+      run: gh release upload ${{ steps.previoustag.outputs.tag }} "KT.Dies.Irae.~Fantasie.Traum.von.Hexe~.PT-BR.7z"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

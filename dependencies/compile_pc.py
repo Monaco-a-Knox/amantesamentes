@@ -13,8 +13,12 @@ def stringtool():
         print("exec.dat not found?")
 
     shutil.move("dependencies/exec_New.dat", "patch/data/system/exec.dat")
+    #versão dx
     shutil.copyfile("patch/data/system/exec.dat", "patch/data/system/patch.dat")
-
+    #versão steam antiga
+    shutil.copyfile("patch/data/system/exec.dat", "patch/data/system/patch.en.dat")
+    #versão steam nova
+    
 def compile():
     # Define onde o arquivo tex para descompressão está, extrai e move para a pasta patch
     #tex_location = "outros/tex.7z"

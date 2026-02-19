@@ -32,7 +32,7 @@ def compile():
     
     # nome do arquivo de destino
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
-    zip_args = f"[KT]Dies.Irae.~Fantasie.Traum.von.Hexe~.PT-BR.7z {patch_folder}"
+    zip_args = f"KT.Dies.Irae.~Fantasie.Traum.von.Hexe~.PT-BR.7z {patch_folder}"
     run([r'dependencies/7za.exe', 'a'] + shlex.split(zip_args))
 
 stringtool()

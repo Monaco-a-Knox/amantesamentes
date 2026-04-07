@@ -32,7 +32,7 @@ O arquivo ```exec.str.txt``` contém as escolhas e nomes dos personagens. Nele t
 ```src='text01'``` refere-sem, em KKK, às imagens das cartas.
 
 Para usá-lo, é necessário compilá-lo com o Visual Studio. O programa possui um bug, então é necessário compilá-lo duas vezes. Primeiro para criar uma versão específica para decompilar. Em seguida, delete as linhas 19 e 22 em ```Program.cs``` e compile novamente para criar uma versão de compilação.
-Você encontra ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/outros/malie%20tools.7z).
+Você encontra ele já compilado por mim neste [repositório](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/outros/malie%20tools.7z).
 
 Infelizmente, nenhum desses métodos dá acesso ao script na íntegra, com toda sua programação. É por isso que modificar o número de linhas quebra a compilação.
 
@@ -41,7 +41,7 @@ Além disso, por vezes, um programa pode apresentar incompatibilidades com o out
 # Quebra de linha - line break/wordwarp
 
 Com exceção da versão inglesa de Dies Irae, que corrige esse problema automaticamente, os demais jogos vão quebrar as palavras no meio caso não tenha espaço na linha.
-Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o [script](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/dependencies/wordwrap.py) criado por Cosetto e modificado por mim para ser usado em KKK com caixa de texto vertical.
+Para corrigir isso, é necessário adicionar [n] para quebrar as linhas. Uma forma de fazer isso automaticamente é o [script](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/dependencies/wordwrap.py) criado por Cosetto e modificado por mim para ser usado em KKK com caixa de texto vertical.
 
 # Códigos e comandos
 ```
@@ -82,7 +82,7 @@ Para compilar todos os arquivos do jogo dentro de um novo ```data.dat``` é nece
 
 Para cada jogo que utilize a engine MalieSystem, é necessário modificar o ```dat_pack.py```, indicando os bytes do offset 0x10~0x17 do ```data1.dat``` , [desta forma](https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-1913515911)
 
-Neste patch específico, todo o processo de compilação é feito automaticamente através do [GitHub Actions.](https://github.com/Monaco-a-Knox/Dia-da-Ira/blob/main/dependencies/compile_pc.py).
+Neste patch específico, todo o processo de compilação é feito automaticamente através do [GitHub Actions.](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/dependencies/compile_pc.py).
 Para rodar localmente, use o comando ```python dependencies\compile_pc.py```
 
 # Tipografia
